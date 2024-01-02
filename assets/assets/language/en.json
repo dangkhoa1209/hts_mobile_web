@@ -63,5 +63,14 @@
   "lockingMechanism": "Điều chốt",
   "plannedVehicleDeployment": "Điều dự kiến",
   "end": "Kết thúc",
-  "read": "Đã đọc"
+  "read": "Đã đọc",
+  "departure": "Khởi hành",
+  "addDocument": "Thêm tài liệu",
+  "viewDetail": "Xem chi tiết",
+  "inPoint": "Vào điểm",
+  "outPoint": "Ra điểm",
+  "start": "Bắt đầu",
+  "addImage": "Thêm hình ảnh",
+  "openCamera": "Mở bằng camera",
+  "uploadImage": "Tải hình ảnh"
 }
