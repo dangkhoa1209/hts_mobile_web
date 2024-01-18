@@ -72,5 +72,6 @@
   "start": "Bắt đầu",
   "addImage": "Thêm hình ảnh",
   "openCamera": "Mở bằng camera",
-  "uploadImage": "Tải hình ảnh"
+  "uploadImage": "Tải hình ảnh",
+  "youHaveNotHadAnyItemsDeliveredYet" : "Bạn chưa có chặn hàng nào được giao!"
 }

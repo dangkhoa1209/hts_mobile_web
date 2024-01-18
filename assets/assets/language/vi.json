@@ -30,6 +30,8 @@
   "confirm": "Xác nhận",
   "cancel": "Huỷ",
   "areYouSureYouWanToDeleteTheAccount": "Bạn có chắc chắn muốn xoá tài khoản không",
+  "youMustHaveReadThisBlock.": "Bạn xác nhận đã đọc chặn hàng này",
+  "youMustHaveDepartureThisBlock": "Bạn xác nhận khởi hành chặn hàng này",
   "code": "Mã",
   "journey": "Chặng",
   "journeyDetail": "Chi tiết chặng hàng",
