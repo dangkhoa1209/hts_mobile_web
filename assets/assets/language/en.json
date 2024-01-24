@@ -74,6 +74,8 @@
   "uploadImage": "Tải hình ảnh",
   "youHaveNotHadAnyItemsDeliveredYet" : "Bạn chưa có chặn hàng nào được giao!",
   "complete": "Hoàn thành",
-  "youMustHaveReadThisBlock": "Bạn xác nhận đã đọc chặn hàng này",
-  "youMustHaveDepartureThisBlock": "Bạn xác nhận khởi hành chặn hàng này"
+  "youMustHaveReadThisBlock": "Bạn xác nhận đã đọc chặng hàng này",
+  "youMustHaveDepartureThisBlock": "Bạn xác nhận khởi hành chặng hàng này",
+  "contact": "Liên hệ",
+  "contactPacking": "Liên hệ đóng hàng"
 }
