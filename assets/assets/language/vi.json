@@ -79,5 +79,6 @@
   "contact": "Liên hệ",
   "contactPacking": "Liên hệ đóng hàng",
   "scheduleDistribution": "Điều dự kiến",
-  "confirmDistribution": "Điều chính thức"
+  "confirmedDistribution": "Điều chính thức",
+  "changeAvatar": "Thay đổi ảnh đại diện"
 }
