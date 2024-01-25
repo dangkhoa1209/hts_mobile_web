@@ -31,7 +31,7 @@
   "cancel": "Huỷ",
   "areYouSureYouWanToDeleteTheAccount": "Bạn có chắc chắn muốn xoá tài khoản không",
   "code": "Mã",
-  "journey": "Chặng",
+  "journey": "Chặng hàng",
   "journeyDetail": "Chi tiết chặng hàng",
   "logOut": "Đăng xuất",
   "loading": "Vui lòng chờ",
@@ -77,5 +77,7 @@
   "youMustHaveReadThisBlock": "Bạn xác nhận đã đọc chặng hàng này",
   "youMustHaveDepartureThisBlock": "Bạn xác nhận khởi hành chặng hàng này",
   "contact": "Liên hệ",
-  "contactPacking": "Liên hệ đóng hàng"
+  "contactPacking": "Liên hệ đóng hàng",
+  "scheduleDistribution": "Điều dự kiến",
+  "confirmDistribution": "Điều chính thức"
 }
