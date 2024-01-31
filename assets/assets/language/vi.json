@@ -78,7 +78,21 @@
   "youMustHaveDepartureThisBlock": "Bạn xác nhận khởi hành chặng hàng này",
   "contact": "Liên hệ",
   "contactPacking": "Liên hệ đóng hàng",
-  "scheduleDistribution": "Điều dự kiến",
-  "confirmedDistribution": "Điều chính thức",
-  "changeAvatar": "Thay đổi ảnh đại diện"
+  "scheduleDistribution": "Dự kiến",
+  "confirmedDistribution": "Đã chốt",
+  "changeAvatar": "Thay đổi ảnh đại diện",
+  "newJourney": "Chặng hàng mới",
+  "allJourney": "Tất cả",
+  "receiveShipment": "Nhận chặng hàng",
+  "status": "Trạng thái",
+  "timeOfArrival": "Thời gian vào điểm",
+  "timeOfDeparture": "Thời gian ra điểm",
+  "estimatedDepartureTime": "Thời gian khởi hành dự kiến",
+  "actualTransitTime": "Thời gian thực hiện chặng hàng",
+  "from": "Từ",
+  "ended": "Đã kết thúc",
+  "displayExpectedMilestones": "Hiển thị chặng điều dự kiến",
+  "noImagesHaveBeenUploadedYet" :"Chưa có hình ảnh nào được tải lên",
+  "endOfStage" :"Kết thúc chặng"
+
 }
