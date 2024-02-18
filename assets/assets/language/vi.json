@@ -93,6 +93,9 @@
   "ended": "Đã kết thúc",
   "displayExpectedMilestones": "Hiển thị chặng điều dự kiến",
   "noImagesHaveBeenUploadedYet" :"Chưa có hình ảnh nào được tải lên",
-  "endOfStage" :"Kết thúc chặng"
-
+  "endOfStage" :"Kết thúc chặng",
+  "arrivedAtLocation":"Đã vào điểm",
+  "notYetArrivedAtLocation":"Chưa vào điểm",
+  "departedFromLocation" : "Đã ra điểm",
+  "skip":"Bỏ qua"
 }
