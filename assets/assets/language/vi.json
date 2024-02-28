@@ -97,5 +97,7 @@
   "arrivedAtLocation":"Đã vào điểm",
   "notYetArrivedAtLocation":"Chưa vào điểm",
   "departedFromLocation" : "Đã ra điểm",
-  "skip":"Bỏ qua"
+  "skip":"Bỏ qua",
+  "timeToCheckIn" :"Giờ vào điểm",
+  "estimatedStaringTime" :"Giờ dự kiến vào điểm"
 }
