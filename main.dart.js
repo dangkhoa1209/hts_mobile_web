@@ -106512,8 +106512,10 @@ case 6:l=d
 k=A.a([],t.vc)
 j=J.a9(l)
 if(j.h(l,"success"))k=A.ey(J.lr(j.h(l,"data"),new A.avL()),!0,t.GT)
-j=q.c.aDQ(A.bn_(n.h(o,"data")),k,m,!0)
-if(!b.d)b.a.$1(j)
+j=q.c
+p=j.w===!0?!0:J.am(n.h(o,"data"),"travelGoInAvailable")
+p=j.aDQ(A.bn_(n.h(o,"data")),k,m,p)
+if(!b.d)b.a.$1(p)
 case 5:j=q.c.iX(!1)
 if(!b.d)b.a.$1(j)
 return A.q(null,r)}})
